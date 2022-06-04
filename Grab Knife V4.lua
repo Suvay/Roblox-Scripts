@@ -79,7 +79,7 @@ local TextBox = Instance.new("TextBox")
 local Black = Instance.new('Frame')
 local fps = Instance.new('TextLabel')
 
--- Properties
+-- Propertie
 
 MainGUI.Name = "MainGUI"
 MainGUI.ResetOnSpawn = false
